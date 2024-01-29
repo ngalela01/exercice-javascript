@@ -1,0 +1,16 @@
+#premier_paragraphe {
+  width: 50%;
+  height: 50%;
+  padding: 20px;
+}
+
+#deuxième_paragraphe {
+  width: 50%;
+  height: 50%;
+  padding: 20px;
+}
+
+article {
+  visibility: hidden;
+}
+
